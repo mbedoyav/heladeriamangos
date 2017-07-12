@@ -4,6 +4,6 @@ if (confirm("Hola")){
 	alert("Hola");
 }else{
 	//lo que se hace si no se cumple la funcion 
-	alert("que mierda");
+	alert("holi");
 }
 
